@@ -1,0 +1,30 @@
+/* Fonts
+font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Varela Round', sans-serif;
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    background-color: #FFF3C6;
+    text-align: center;
+}
+.topMenu{
+    background-color: #FF8615;
+}
+.topMenuText{
+    font-family: 'Varela Round', sans-serif; 
+    font-size: 3em; 
+    color:white;
+    font-weight: 700;
+}
+.pageFooter{
+    background-color: #ce711a;
+    color:white;
+}
