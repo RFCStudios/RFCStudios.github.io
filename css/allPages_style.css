@@ -17,14 +17,14 @@ body{
 }
 .navBarBranding{
     width: 10vw;
-    margin: 10px;
+    margin: 5px;
     min-width: 80px;
     max-width: 110px;
 
 }
 .navBarBackground{
     background-color: #FF8615;
-    font-size: 1.3em;
+    font-size: 1.1em;
 
 }
 .pageFooter{
