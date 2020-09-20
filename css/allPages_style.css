@@ -27,6 +27,13 @@ body{
     font-size: 1.1em;
 
 }
+.tarjaManutencao{
+    color:white;
+    font-weight: bold;
+}
+.imagemFrango{
+    background-color: #ff86153a;
+}
 .pageFooter{
     background-color:  #FF8615;
     color:white;
